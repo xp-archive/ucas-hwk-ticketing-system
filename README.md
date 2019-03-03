@@ -1,0 +1,7 @@
+- Route 列车
+- Station 车站
+- Seat 座位
+- Ticket 车票
+- Segment 某座位在车站间的一段区间
+- Trip 可能的始站终站，有 stationNum! 个，用于记录余票量
+- 
